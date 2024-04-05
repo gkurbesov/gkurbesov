@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gkurbesov
 - 🌱 I’m currently learning mangment 3.0
 - 💞️ I’m looking to collaborate on <I'M ALL EARS>
-- 📫 Telegram: @gkurbesov
 
 <!---
 gkurbesov/gkurbesov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
